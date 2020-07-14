@@ -2,6 +2,10 @@
 
 Check out [my website](https://mcluck.tech/) where I occasionally write blog posts and frequently play around with the style.
 
+- 🌱 I’m currently learning about [Godot](https://godotengine.org/)
+- 💬 Ask me about web development, compilers, and game development
+- 📫 How to reach me: [@MikeCluck](https://twitter.com/MikeCluck)
+
 
 <!--
 **MCluck90/MCluck90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
