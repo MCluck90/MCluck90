@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello!
+
+Check out [my website](https://mcluck.tech/) where I occasionally write blog posts and frequently play around with the style.
+
 
 <!--
 **MCluck90/MCluck90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
