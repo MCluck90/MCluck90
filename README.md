@@ -4,7 +4,6 @@ Check out [my website](https://mcluck.tech/) where I occasionally write blog pos
 
 - 🔭 I’m currently working on a [parser combinator library](https://github.com/MCluck90/parsnip-ts)
 - 💬 Ask me about web development, compilers, and game development
-- 📫 How to reach me: [@MikeCluck](https://twitter.com/MikeCluck)
 
 
 <!--
