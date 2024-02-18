@@ -1,6 +1,6 @@
 # Hello!
 
-Check out [my website](https://mcluck.tech/) where I occasionally write blog posts.
+Check out [my website](https://mcluck.tech/) where I sometimes make/write things.
 
 - 🔭 I’m currently working on a [programming language](https://github.com/MCluck90/web-lang)
 - 💬 Ask me about web development and compilers
