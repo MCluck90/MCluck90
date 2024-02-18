@@ -2,7 +2,7 @@
 
 Check out [my website](https://mcluck.tech/) where I sometimes make/write things.
 
-- 🔭 I’m currently working on a [programming language](https://github.com/MCluck90/web-lang)
+- 🔭 I’m currently working on a [programming language](https://github.com/MCluck90/web-lang) (it's in a weird spot right now 🚧)
 - 💬 Ask me about web development and compilers
 
 
