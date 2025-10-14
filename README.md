@@ -1,1 +1,1 @@
-I hack on 🐻‍❄️ [Polar](https://www.osohq.com/docs/modeling-in-polar/intro-to-polar)
+I hack on 🐻‍❄️ [Polar](https://www.osohq.com/docs/develop/policies/overview)
