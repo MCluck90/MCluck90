@@ -1,1 +1,1 @@
-I hack on 🐻‍❄️ [Polar](https://www.osohq.com/docs/develop/policies/overview)
+Rust, compilers, and developer tools are my jam
